@@ -1,3 +1,3 @@
 # News-app
- use axios ,contextapi  and get data newsapi web
+ Use daisy UI, Axios ,contextapi and get data from newsapi web
  
